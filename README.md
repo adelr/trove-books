@@ -1,4 +1,5 @@
-# Topic modelling of Trove Books from [GLAM Workbench website](https://glam-workbench.github.io/trove-books/)
+# Topic modelling of Trove Books
+### The data can be downloaded from the [GLAM Workbench website](https://glam-workbench.github.io/trove-books/).
 
 -----
 
