@@ -11,7 +11,7 @@ and is comprised of 9,738 documents harvested and kindly made available by [Tim 
 
 ### The analysis
 The code `Trove_Digitised_Books.ipynb` file is a [Jupyter](https://jupyter.org/) notebook documenting my initial exploration of the data.
-The code is written in Python 3.7.
+The code is written in Python 3.7. The notebook can also be viewed [here](https://nbviewer.jupyter.org/github/adelr/trove-books/blob/master/Trove_Digitised_Books.ipynb).
 
 ### Requirements
 If you are using the [Anaconda distribution](https://www.anaconda.com/distribution/), you can reproduce my virtual environment
